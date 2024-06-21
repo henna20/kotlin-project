@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488364477474",
+    "project_id": "login-90145",
+    "storage_bucket": "login-90145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488364477474:android:b23ac1a3df689747224e7b",
+        "android_client_info": {
+          "package_name": "com.me.scrollandgridview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488364477474-0acc9n4elbkqg0i7u611prl9jjqqoglc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqU9wfWnllJ-Spph50TDhKYZ7x1ySUw9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488364477474-0acc9n4elbkqg0i7u611prl9jjqqoglc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

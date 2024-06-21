@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/henna/AndroidStudioProjects/Henna Mohanan/app/src/main/res/layout/activity_retrieve.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/Henna Mohanan/app/src/main/res/layout/activity_sign_in.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/Henna Mohanan/app/src/main/res/layout/activity_sign_up.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/Henna Mohanan/app/src/main/res/layout/activity_update.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/activity_battery.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/activity_chatbox.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/activity_contact.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/activity_each_item.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/activity_home.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/activity_library.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/activity_map.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/activity_sign_in.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/assignment/login04/app/src/main/res/layout/each_item.xml" value="0.128515625" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/contact/app/src/main/res/layout/activity_contact.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/contact/app/src/main/res/layout/activity_delete.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/contact/app/src/main/res/layout/activity_update.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/contact/app/src/main/res/layout/activity_upload.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/library/app/src/main/res/layout/activity_library.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/library/app/src/main/res/layout/list_view_fact.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/note07/app/src/main/res/layout/activity_map.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/note07/app/src/main/res/layout/activity_map2.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/note07/app/src/main/res/layout/activity_weather.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/noteapp02/app/src/main/res/layout/activity_sign_in.xml" value="0.1296875" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/noteapp02/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/activity_contact.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/activity_delete.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/activity_library.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/activity_map.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/activity_map2.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/activity_one.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/activity_retrieve.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/retrievedata/app/src/main/res/layout/each_item.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandgridview/app/src/main/res/drawable/bg_view.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandgridview/app/src/main/res/layout/activity_main.xml" value="0.21851851851851853" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandgridview/app/src/main/res/layout/activity_one.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandnewactivity/app/src/main/res/drawable/btn_bg6.xml" value="0.143" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandnewactivity/app/src/main/res/drawable/ic_phone.xml" value="0.143" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandnewactivity/app/src/main/res/layout/activity_battery.xml" value="0.134375" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandnewactivity/app/src/main/res/layout/activity_contact.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandnewactivity/app/src/main/res/layout/activity_main.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandnewactivity/app/src/main/res/layout/activity_theme.xml" value="0.134375" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandnewactivity/app/src/main/res/layout/activity_weather.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandvoice/app/src/main/res/layout/activity_battery.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandvoice/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandvoice/app/src/main/res/layout/activity_items.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandvoice/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/scrollandvoice/app/src/main/res/layout/activity_weather.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/weather06/app/src/main/res/layout/activity_library.xml" value="0.1" />
+        <entry key="..\:/Users/henna/AndroidStudioProjects/weather06/app/src/main/res/layout/activity_weather.xml" value="0.13333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
